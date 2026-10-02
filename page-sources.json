@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "pages": [
+    {
+      "id": "split-map",
+      "repository": "stranded-deep-split-map",
+      "commit": "408ec3b919f0c3c82d4c85b0dfa4068c2b9bbdee",
+      "path": "mod-page/page.json"
+    }
+  ]
+}
