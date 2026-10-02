@@ -1,0 +1,130 @@
+﻿{
+    "schemaVersion":  1,
+    "channel":  "stable",
+    "game":  {
+                 "id":  "stranded-deep",
+                 "name":  "Stranded Deep",
+                 "platform":  "windows"
+             },
+    "packages":  [
+                     {
+                         "id":  "better-meat",
+                         "name":  "Stranded Deep Better Meat",
+                         "category":  "gameplay",
+                         "description":  "Improves meat stacking, cooking and cooking status display.",
+                         "repository":  "stranded-deep-better-meat",
+                         "latest":  {
+                                        "version":  "0.3.1",
+                                        "tag":  "v0.3.1",
+                                        "releaseChannel":  "stable",
+                                        "download":  {
+                                                         "provider":  "github-release",
+                                                         "asset":  "BetterMeat-0.3.1.zip",
+                                                         "sha256":  "78ef15a5848aa563007e62b25a58bc73a0820599f9aa3967f88e23069e30499b"
+                                                     }
+                                    }
+                     },
+                     {
+                         "id":  "infinite-fire-torch",
+                         "name":  "Stranded Deep Infinite Fire Torch",
+                         "category":  "gameplay",
+                         "description":  "Changes fire torch behavior.",
+                         "repository":  "stranded-deep-infinite-fire-torch",
+                         "latest":  {
+                                        "version":  "1.1.0",
+                                        "tag":  "v1.1.0",
+                                        "releaseChannel":  "stable",
+                                        "download":  {
+                                                         "provider":  "github-release",
+                                                         "asset":  "InfiniteFireTorch-1.1.0.zip",
+                                                         "sha256":  "58ad5f37c05d36865550b6de16732b8dd51aa1fa0942af94ccbdbbba68f95fb6"
+                                                     }
+                                    }
+                     },
+                     {
+                         "id":  "mod-settings",
+                         "name":  "Stranded Deep Mod Settings",
+                         "category":  "core",
+                         "description":  "РћР±С‰РµРµ РІРЅСѓС‚СЂРёРёРіСЂРѕРІРѕРµ РјРµРЅСЋ РЅР°СЃС‚СЂРѕРµРє РґР»СЏ BepInEx-РјРѕРґРѕРІ Stranded Deep.",
+                         "repository":  "stranded-deep-mod-settings",
+                         "latest":  {
+                                        "version":  "0.2.1",
+                                        "tag":  "v0.2.1",
+                                        "releaseChannel":  "stable",
+                                        "download":  {
+                                                         "provider":  "github-release",
+                                                         "asset":  "StrandedDeepModSettings-0.2.1.zip",
+                                                         "sha256":  "d66ad55e256e7f9cc743885e2e9bae65728576f06baa8946979b084c765fc2f6"
+                                                     }
+                                    }
+                     },
+                     {
+                         "id":  "natural-regrowth",
+                         "name":  "Stranded Deep Natural Regrowth",
+                         "category":  "world",
+                         "description":  "Natural palm and coconut regrowth system.",
+                         "repository":  "stranded-deep-natural-regrowth",
+                         "latest":  {
+                                        "version":  "0.2.0",
+                                        "tag":  "v0.2.0",
+                                        "releaseChannel":  "stable",
+                                        "download":  {
+                                                         "provider":  "github-release",
+                                                         "asset":  "StrandedDeepNaturalRegrowth-0.2.0.zip",
+                                                         "sha256":  "4177ca0548a875d682c86655d04c574cd21bdefd55d58d4675b3e93c00217e7a"
+                                                     }
+                                    }
+                     },
+                     {
+                         "id":  "split-map",
+                         "name":  "Stranded Deep Split Map",
+                         "category":  "interface",
+                         "description":  "Exploration map and navigation with local split-screen support.",
+                         "repository":  "stranded-deep-split-map",
+                         "latest":  {
+                                        "version":  "0.13.1",
+                                        "tag":  "v0.13.1",
+                                        "releaseChannel":  "stable",
+                                        "download":  {
+                                                         "provider":  "github-release",
+                                                         "asset":  "StrandedDeepSplitMap-0.13.1.zip",
+                                                         "sha256":  "2dedf80134f486651bc04da059e380589e47683a70b37647265b62731b5cd189"
+                                                     }
+                                    }
+                     },
+                     {
+                         "id":  "table-storage",
+                         "name":  "Stranded Deep Table Storage",
+                         "category":  "building",
+                         "description":  "Adds native-style storage to selected tables.",
+                         "repository":  "stranded-deep-table-storage",
+                         "latest":  {
+                                        "version":  "0.8.1",
+                                        "tag":  "v0.8.1",
+                                        "releaseChannel":  "stable",
+                                        "download":  {
+                                                         "provider":  "github-release",
+                                                         "asset":  "StrandedDeepTableStorage-0.8.1.zip",
+                                                         "sha256":  "ac629a6462fc60aff063fdba9aab0ceef4283288a1b979766695bd7fb394349e"
+                                                     }
+                                    }
+                     },
+                     {
+                         "id":  "ui-scaler",
+                         "name":  "Stranded Deep UI Scaler",
+                         "category":  "interface",
+                         "description":  "Р Р€Р Р†Р ВµР В»Р С‘РЎвЂЎР С‘Р Р†Р В°Р ВµРЎвЂљ РЎРѓР В»Р С‘РЎв‚¬Р С”Р С•Р С Р СР ВµР В»Р С”Р С‘Р в„– Р С‘Р Р…РЎвЂљР ВµРЎР‚РЎвЂћР ВµР в„–РЎРѓ Stranded Deep, Р Р†Р С”Р В»РЎР‹РЎвЂЎР В°РЎРЏ local split-screen.",
+                         "repository":  "stranded-deep-ui-scaler",
+                         "latest":  {
+                                        "version":  "0.3.0",
+                                        "tag":  "v0.3.0",
+                                        "releaseChannel":  "stable",
+                                        "download":  {
+                                                         "provider":  "github-release",
+                                                         "asset":  "StrandedDeepUIScaler-0.3.0.zip",
+                                                         "sha256":  "9ec408f680edcec7bdd3771721677f326bfa1d0ae5350b08b48169adbcc48737"
+                                                     }
+                                    }
+                     }
+                 ]
+}

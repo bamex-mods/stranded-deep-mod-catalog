@@ -1,0 +1,14 @@
+# Internal/development aggregate catalog
+/catalog.json
+/catalog.json.sha256
+
+# Generated catalog source information
+/out/
+
+# Internal publishing plan
+/stable/publish-plan.json
+
+# Temporary/editor files
+*.tmp
+*.bak
+*~
