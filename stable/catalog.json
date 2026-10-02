@@ -118,7 +118,7 @@
                          "id":  "ui-scaler",
                          "name":  "Stranded Deep UI Scaler",
                          "category":  "interface",
-                         "description":  "РЈРІРµР»РёС‡РёРІР°РµС‚ СЃР»РёС€РєРѕРј РјРµР»РєРёР№ РёРЅС‚РµСЂС„РµР№СЃ Stranded Deep, РІРєР»СЋС‡Р°СЏ local split-screen.",
+                         "description":  "Увеличивает слишком мелкий интерфейс Stranded Deep, включая local split-screen.",
                          "repository":  "stranded-deep-ui-scaler",
                          "latest":  {
                                         "version":  "0.3.0",
