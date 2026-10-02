@@ -1,4 +1,4 @@
-﻿{
+{
     "schemaVersion":  1,
     "channel":  "stable",
     "game":  {
@@ -45,7 +45,7 @@
                          "id":  "mod-settings",
                          "name":  "Stranded Deep Mod Settings",
                          "category":  "core",
-                         "description":  "РћР±С‰РµРµ РІРЅСѓС‚СЂРёРёРіСЂРѕРІРѕРµ РјРµРЅСЋ РЅР°СЃС‚СЂРѕРµРє РґР»СЏ BepInEx-РјРѕРґРѕРІ Stranded Deep.",
+                         "description":  "Общее внутриигровое меню настроек для BepInEx-модов Stranded Deep.",
                          "repository":  "stranded-deep-mod-settings",
                          "latest":  {
                                         "version":  "0.2.1",
@@ -113,7 +113,7 @@
                          "id":  "ui-scaler",
                          "name":  "Stranded Deep UI Scaler",
                          "category":  "interface",
-                         "description":  "Р Р€Р Р†Р ВµР В»Р С‘РЎвЂЎР С‘Р Р†Р В°Р ВµРЎвЂљ РЎРѓР В»Р С‘РЎв‚¬Р С”Р С•Р С Р СР ВµР В»Р С”Р С‘Р в„– Р С‘Р Р…РЎвЂљР ВµРЎР‚РЎвЂћР ВµР в„–РЎРѓ Stranded Deep, Р Р†Р С”Р В»РЎР‹РЎвЂЎР В°РЎРЏ local split-screen.",
+                         "description":  "РЈРІРµР»РёС‡РёРІР°РµС‚ СЃР»РёС€РєРѕРј РјРµР»РєРёР№ РёРЅС‚РµСЂС„РµР№СЃ Stranded Deep, РІРєР»СЋС‡Р°СЏ local split-screen.",
                          "repository":  "stranded-deep-ui-scaler",
                          "latest":  {
                                         "version":  "0.3.0",
