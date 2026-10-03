@@ -20,6 +20,12 @@
                       "path":  "mod-page/page.json"
                   },
                   {
+                      "id":  "motor-fuel-tweaks",
+                      "repository":  "stranded-deep-motor-fuel-tweaks",
+                      "commit":  "9e72dd78494bf55d7dc6065a1351399bc4015022",
+                      "path":  "mod-page/page.json"
+                  },
+                  {
                       "id":  "natural-regrowth",
                       "repository":  "stranded-deep-natural-regrowth",
                       "commit":  "2264018789435cb3df4e1966cb4c573e10b7dd18",

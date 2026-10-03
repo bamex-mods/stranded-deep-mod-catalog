@@ -74,6 +74,28 @@
                                   }
                      },
                      {
+                         "id":  "motor-fuel-tweaks",
+                         "name":  "Stranded Deep Motor Fuel Tweaks",
+                         "category":  "gameplay",
+                         "description":  "Adjustable Boat Motor fuel consumption from 0% to 100%, with optional in-game Mod Settings integration.",
+                         "repository":  "stranded-deep-motor-fuel-tweaks",
+                         "latest":  {
+                                        "version":  "0.2.1",
+                                        "tag":  "v0.2.1",
+                                        "releaseChannel":  "stable",
+                                        "download":  {
+                                                         "provider":  "github-release",
+                                                         "asset":  "StrandedDeepMotorFuelTweaks-0.2.1.zip",
+                                                         "sha256":  "bb96f546933881d87306bbdb2c25447629d90ddbf682f398bc133094775360d3"
+                                                     }
+                                    },
+                         "page":  {
+                                      "repository":  "stranded-deep-motor-fuel-tweaks",
+                                      "commit":  "9e72dd78494bf55d7dc6065a1351399bc4015022",
+                                      "path":  "mod-page/page.json"
+                                  }
+                     },
+                     {
                          "id":  "natural-regrowth",
                          "name":  "Stranded Deep Natural Regrowth",
                          "category":  "world",
