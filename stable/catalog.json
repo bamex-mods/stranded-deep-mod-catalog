@@ -30,6 +30,23 @@
                                   }
                      },
                      {
+                         "id":  "diagnostics",
+                         "name":  "Stranded Deep Diagnostics",
+                         "category":  "developer-tools",
+                         "description":  "Runtime diagnostics and targeted tracing toolkit for Stranded Deep BepInEx mod development.",
+                         "repository":  "stranded-deep-diagnostics",
+                         "latest":  {
+                                        "version":  "1.0.0-rc1",
+                                        "tag":  "v1.0.0-rc1",
+                                        "releaseChannel":  "prerelease",
+                                        "download":  {
+                                                         "provider":  "github-release",
+                                                         "asset":  "StrandedDeepDiagnostics-1.0.0-rc1.zip",
+                                                         "sha256":  "a7f8c2ea2831b77a3c6945af28489502a83dd17a746cf55481772f338e4b3e10"
+                                                     }
+                                    }
+                     },
+                     {
                          "id":  "infinite-fire-torch",
                          "name":  "Stranded Deep Infinite Fire Torch",
                          "category":  "gameplay",
