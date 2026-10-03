@@ -8,6 +8,12 @@
                       "path":  "mod-page/page.json"
                   },
                   {
+                      "id":  "diagnostics",
+                      "repository":  "stranded-deep-diagnostics",
+                      "commit":  "63223175747ce28258c395f2b80d74376758faf1",
+                      "path":  "mod-page/page.json"
+                  },
+                  {
                       "id":  "infinite-fire-torch",
                       "repository":  "stranded-deep-infinite-fire-torch",
                       "commit":  "80cf3a688639c4b8f56dd44d54506d4ff495c13f",
