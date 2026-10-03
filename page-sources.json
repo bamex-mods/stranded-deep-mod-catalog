@@ -1,11 +1,47 @@
 {
-  "schemaVersion": 1,
-  "pages": [
-    {
-      "id": "split-map",
-      "repository": "stranded-deep-split-map",
-      "commit": "408ec3b919f0c3c82d4c85b0dfa4068c2b9bbdee",
-      "path": "mod-page/page.json"
-    }
-  ]
+    "schemaVersion":  1,
+    "pages":  [
+                  {
+                      "id":  "better-meat",
+                      "repository":  "stranded-deep-better-meat",
+                      "commit":  "baf7803a24889d3914b4f0a74bbeabae56d42708",
+                      "path":  "mod-page/page.json"
+                  },
+                  {
+                      "id":  "infinite-fire-torch",
+                      "repository":  "stranded-deep-infinite-fire-torch",
+                      "commit":  "80cf3a688639c4b8f56dd44d54506d4ff495c13f",
+                      "path":  "mod-page/page.json"
+                  },
+                  {
+                      "id":  "mod-settings",
+                      "repository":  "stranded-deep-mod-settings",
+                      "commit":  "3c8e79ec69ed91af78dca1b8856694fdd95bac65",
+                      "path":  "mod-page/page.json"
+                  },
+                  {
+                      "id":  "natural-regrowth",
+                      "repository":  "stranded-deep-natural-regrowth",
+                      "commit":  "2264018789435cb3df4e1966cb4c573e10b7dd18",
+                      "path":  "mod-page/page.json"
+                  },
+                  {
+                      "id":  "split-map",
+                      "repository":  "stranded-deep-split-map",
+                      "commit":  "408ec3b919f0c3c82d4c85b0dfa4068c2b9bbdee",
+                      "path":  "mod-page/page.json"
+                  },
+                  {
+                      "id":  "table-storage",
+                      "repository":  "stranded-deep-table-storage",
+                      "commit":  "0e0f83d1c85027012c8ac549caf5f07964eae796",
+                      "path":  "mod-page/page.json"
+                  },
+                  {
+                      "id":  "ui-scaler",
+                      "repository":  "stranded-deep-ui-scaler",
+                      "commit":  "3ba43d3260811ce7507818e978bfe6ccd63fff95",
+                      "path":  "mod-page/page.json"
+                  }
+              ]
 }
