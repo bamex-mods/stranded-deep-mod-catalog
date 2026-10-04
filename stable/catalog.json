@@ -140,6 +140,28 @@
                                   }
                      },
                      {
+                         "id":  "raft-furniture",
+                         "name":  "Stranded Deep Raft Furniture",
+                         "category":  "building",
+                         "description":  "Turns the raft into a mobile base with supported furniture, survival structures, split-screen-aware repositioning, and persistent raft attachment.",
+                         "repository":  "stranded-deep-raft-furniture",
+                         "latest":  {
+                                        "version":  "0.2.13",
+                                        "tag":  "v0.2.13",
+                                        "releaseChannel":  "stable",
+                                        "download":  {
+                                                         "provider":  "github-release",
+                                                         "asset":  "StrandedDeepRaftFurniture-0.2.13.zip",
+                                                         "sha256":  "74c822a73eae6a53ab8634969f2f264efd47888f7245207598bee5c482b2195f"
+                                                     }
+                                    },
+                         "page":  {
+                                      "repository":  "stranded-deep-raft-furniture",
+                                      "commit":  "aedc9be649b8042bf28081b7328c3fa865d758c2",
+                                      "path":  "mod-page/page.json"
+                                  }
+                     },
+                     {
                          "id":  "split-map",
                          "name":  "Stranded Deep Split Map",
                          "category":  "interface",

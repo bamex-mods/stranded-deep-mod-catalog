@@ -38,6 +38,12 @@
                       "path":  "mod-page/page.json"
                   },
                   {
+                      "id":  "raft-furniture",
+                      "repository":  "stranded-deep-raft-furniture",
+                      "commit":  "aedc9be649b8042bf28081b7328c3fa865d758c2",
+                      "path":  "mod-page/page.json"
+                  },
+                  {
                       "id":  "split-map",
                       "repository":  "stranded-deep-split-map",
                       "commit":  "408ec3b919f0c3c82d4c85b0dfa4068c2b9bbdee",
