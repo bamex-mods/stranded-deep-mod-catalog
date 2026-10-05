@@ -14,13 +14,13 @@
                          "description":  "Improves meat stacking, cooking and cooking status display.",
                          "repository":  "stranded-deep-better-meat",
                          "latest":  {
-                                        "version":  "0.3.1",
-                                        "tag":  "v0.3.1",
+                                        "version":  "0.3.2",
+                                        "tag":  "v0.3.2",
                                         "releaseChannel":  "stable",
                                         "download":  {
                                                          "provider":  "github-release",
-                                                         "asset":  "BetterMeat-0.3.1.zip",
-                                                         "sha256":  "78ef15a5848aa563007e62b25a58bc73a0820599f9aa3967f88e23069e30499b"
+                                                         "asset":  "BetterMeat-0.3.2.zip",
+                                                         "sha256":  "7617a36cf5a187a22d912fda406d2c3291bf493696ef31edc59e73081764a9c1"
                                                      }
                                     },
                          "page":  {
@@ -58,13 +58,13 @@
                          "description":  "Changes fire torch behavior.",
                          "repository":  "stranded-deep-infinite-fire-torch",
                          "latest":  {
-                                        "version":  "1.1.0",
-                                        "tag":  "v1.1.0",
+                                        "version":  "1.1.1",
+                                        "tag":  "v1.1.1",
                                         "releaseChannel":  "stable",
                                         "download":  {
                                                          "provider":  "github-release",
-                                                         "asset":  "InfiniteFireTorch-1.1.0.zip",
-                                                         "sha256":  "58ad5f37c05d36865550b6de16732b8dd51aa1fa0942af94ccbdbbba68f95fb6"
+                                                         "asset":  "InfiniteFireTorch-1.1.1.zip",
+                                                         "sha256":  "7c88699f4ae93c2c3d247dba3e211c90717684d6531547440961ff3bca62be54"
                                                      }
                                     },
                          "page":  {
@@ -77,16 +77,16 @@
                          "id":  "mod-settings",
                          "name":  "Stranded Deep Mod Settings",
                          "category":  "core",
-                         "description":  "Общее внутриигровое меню настроек для BepInEx-модов Stranded Deep.",
+                         "description":  "Shared in-game settings UI for Stranded Deep BepInEx mods with automatic RU/EN localization and isolated native/MODS panels.",
                          "repository":  "stranded-deep-mod-settings",
                          "latest":  {
-                                        "version":  "0.2.1",
-                                        "tag":  "v0.2.1",
+                                        "version":  "0.3.1",
+                                        "tag":  "v0.3.1",
                                         "releaseChannel":  "stable",
                                         "download":  {
                                                          "provider":  "github-release",
-                                                         "asset":  "StrandedDeepModSettings-0.2.1.zip",
-                                                         "sha256":  "d66ad55e256e7f9cc743885e2e9bae65728576f06baa8946979b084c765fc2f6"
+                                                         "asset":  "StrandedDeepModSettings-0.3.1.zip",
+                                                         "sha256":  "13d76fd9f04ddbbcd14d0ab1207d82514151511b2d5b2954c05e58ce85a664b9"
                                                      }
                                     },
                          "page":  {
@@ -102,13 +102,13 @@
                          "description":  "Adjustable Boat Motor fuel consumption from 0% to 100%, with optional in-game Mod Settings integration.",
                          "repository":  "stranded-deep-motor-fuel-tweaks",
                          "latest":  {
-                                        "version":  "0.2.1",
-                                        "tag":  "v0.2.1",
+                                        "version":  "0.2.2",
+                                        "tag":  "v0.2.2",
                                         "releaseChannel":  "stable",
                                         "download":  {
                                                          "provider":  "github-release",
-                                                         "asset":  "StrandedDeepMotorFuelTweaks-0.2.1.zip",
-                                                         "sha256":  "bb96f546933881d87306bbdb2c25447629d90ddbf682f398bc133094775360d3"
+                                                         "asset":  "StrandedDeepMotorFuelTweaks-0.2.2.zip",
+                                                         "sha256":  "a40d55b2e6d78682bbd4d9e916e3f79d633218912cc509555fe2538ccbe4ba7e"
                                                      }
                                     },
                          "page":  {
@@ -124,13 +124,13 @@
                          "description":  "Natural palm and coconut regrowth system.",
                          "repository":  "stranded-deep-natural-regrowth",
                          "latest":  {
-                                        "version":  "0.2.0",
-                                        "tag":  "v0.2.0",
+                                        "version":  "0.2.2",
+                                        "tag":  "v0.2.2",
                                         "releaseChannel":  "stable",
                                         "download":  {
                                                          "provider":  "github-release",
-                                                         "asset":  "StrandedDeepNaturalRegrowth-0.2.0.zip",
-                                                         "sha256":  "4177ca0548a875d682c86655d04c574cd21bdefd55d58d4675b3e93c00217e7a"
+                                                         "asset":  "StrandedDeepNaturalRegrowth-0.2.2.zip",
+                                                         "sha256":  "e3a96fa0772589cb439f698ed1186549029942882028fccc9a83833bd46667f3"
                                                      }
                                     },
                          "page":  {
@@ -146,13 +146,13 @@
                          "description":  "Turns the raft into a mobile base with supported furniture, survival structures, split-screen-aware repositioning, and persistent raft attachment.",
                          "repository":  "stranded-deep-raft-furniture",
                          "latest":  {
-                                        "version":  "0.2.13",
-                                        "tag":  "v0.2.13",
+                                        "version":  "0.2.14",
+                                        "tag":  "v0.2.14",
                                         "releaseChannel":  "stable",
                                         "download":  {
                                                          "provider":  "github-release",
-                                                         "asset":  "StrandedDeepRaftFurniture-0.2.13.zip",
-                                                         "sha256":  "74c822a73eae6a53ab8634969f2f264efd47888f7245207598bee5c482b2195f"
+                                                         "asset":  "StrandedDeepRaftFurniture-0.2.14.zip",
+                                                         "sha256":  "22047ffe103af76e6f76da1503eb922331593007db4618ca6626cbde2dff2c90"
                                                      }
                                     },
                          "page":  {
@@ -168,13 +168,13 @@
                          "description":  "Exploration map and navigation with local split-screen support.",
                          "repository":  "stranded-deep-split-map",
                          "latest":  {
-                                        "version":  "0.13.1",
-                                        "tag":  "v0.13.1",
+                                        "version":  "0.13.2",
+                                        "tag":  "v0.13.2",
                                         "releaseChannel":  "stable",
                                         "download":  {
                                                          "provider":  "github-release",
-                                                         "asset":  "StrandedDeepSplitMap-0.13.1.zip",
-                                                         "sha256":  "2dedf80134f486651bc04da059e380589e47683a70b37647265b62731b5cd189"
+                                                         "asset":  "StrandedDeepSplitMap-0.13.2.zip",
+                                                         "sha256":  "92154b657f40b8e7973b560f15a7fdc13dca45ec0301d11abfcc226fef36b0bb"
                                                      }
                                     },
                          "page":  {
@@ -190,13 +190,13 @@
                          "description":  "Adds native-style storage to selected tables.",
                          "repository":  "stranded-deep-table-storage",
                          "latest":  {
-                                        "version":  "0.8.1",
-                                        "tag":  "v0.8.1",
+                                        "version":  "0.8.2",
+                                        "tag":  "v0.8.2",
                                         "releaseChannel":  "stable",
                                         "download":  {
                                                          "provider":  "github-release",
-                                                         "asset":  "StrandedDeepTableStorage-0.8.1.zip",
-                                                         "sha256":  "ac629a6462fc60aff063fdba9aab0ceef4283288a1b979766695bd7fb394349e"
+                                                         "asset":  "StrandedDeepTableStorage-0.8.2.zip",
+                                                         "sha256":  "f0c4945afc8b47942fd5656c459354d4066409c724df5c38a22e418bc24156b5"
                                                      }
                                     },
                          "page":  {
@@ -212,13 +212,13 @@
                          "description":  "Увеличивает слишком мелкий интерфейс Stranded Deep, включая local split-screen.",
                          "repository":  "stranded-deep-ui-scaler",
                          "latest":  {
-                                        "version":  "0.3.0",
-                                        "tag":  "v0.3.0",
+                                        "version":  "0.3.1",
+                                        "tag":  "v0.3.1",
                                         "releaseChannel":  "stable",
                                         "download":  {
                                                          "provider":  "github-release",
-                                                         "asset":  "StrandedDeepUIScaler-0.3.0.zip",
-                                                         "sha256":  "9ec408f680edcec7bdd3771721677f326bfa1d0ae5350b08b48169adbcc48737"
+                                                         "asset":  "StrandedDeepUIScaler-0.3.1.zip",
+                                                         "sha256":  "909ea31bb008e47ab8c111414d6317efa6d01e46f8f99051f42c178f775c91b5"
                                                      }
                                     },
                          "page":  {
