@@ -14,13 +14,13 @@
                          "description":  "Improves meat stacking, cooking and cooking status display.",
                          "repository":  "stranded-deep-better-meat",
                          "latest":  {
-                                        "version":  "0.3.2",
-                                        "tag":  "v0.3.2",
+                                        "version":  "0.3.3",
+                                        "tag":  "v0.3.3",
                                         "releaseChannel":  "stable",
                                         "download":  {
                                                          "provider":  "github-release",
-                                                         "asset":  "BetterMeat-0.3.2.zip",
-                                                         "sha256":  "7617a36cf5a187a22d912fda406d2c3291bf493696ef31edc59e73081764a9c1"
+                                                         "asset":  "BetterMeat-0.3.3.zip",
+                                                         "sha256":  "73e9a304a0376c9f79286e6688639ea9453480e227087a11742452bca283adea"
                                                      }
                                     },
                          "page":  {
