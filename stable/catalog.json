@@ -168,13 +168,13 @@
                          "description":  "Exploration map and navigation with local split-screen support.",
                          "repository":  "stranded-deep-split-map",
                          "latest":  {
-                                        "version":  "0.13.2",
-                                        "tag":  "v0.13.2",
+                                        "version":  "0.13.4",
+                                        "tag":  "v0.13.4",
                                         "releaseChannel":  "stable",
                                         "download":  {
                                                          "provider":  "github-release",
-                                                         "asset":  "StrandedDeepSplitMap-0.13.2.zip",
-                                                         "sha256":  "92154b657f40b8e7973b560f15a7fdc13dca45ec0301d11abfcc226fef36b0bb"
+                                                         "asset":  "StrandedDeepSplitMap-0.13.4.zip",
+                                                         "sha256":  "7379c2e25ee25efb8f49b0797f1cf5a99d7a102e613a4e89cfbe2030be15c2eb"
                                                      }
                                     },
                          "page":  {
